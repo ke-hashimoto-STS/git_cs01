@@ -13,6 +13,8 @@ namespace git_cs01
             Console.WriteLine("𣘺本権都");
             Console.WriteLine("𣘺本権都");
             Console.WriteLine("𣘺本権都");
+            Console.WriteLine("こんにちは");
+
         }
     }
 }
