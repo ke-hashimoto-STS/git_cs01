@@ -11,6 +11,8 @@ namespace git_cs01
         static void Main(string[] args)
         {
             Console.WriteLine("𣘺本権都");
+            Console.WriteLine("𣘺本権都");
+            Console.WriteLine("𣘺本権都");
         }
     }
 }
